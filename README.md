@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kacper0276, I'm 20 yo
 - 👀 I’m interested in football and IT technology
-- 🌱 I’m currently learning nest.js and react.js
+- 🌱 I’m currently learning nest.js and react.js and node.js
 - 📫 How to reach me? To my own email: kacper0276@op.pl
 - actually i'm studying IT on University of Warmia and Mazury in Olsztyn 
 
