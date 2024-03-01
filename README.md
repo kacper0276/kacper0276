@@ -5,7 +5,7 @@
 </div>
 
 <h1>
-  hey there
+  Hey th ere
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -30,9 +30,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <div>
-  - 👋 Hi, I’m @kacper0276, I'm 20 yo
+  - 👋 Hi, I’m @kacper0276, I'm 22 yo
   - 👀 I’m interested in football and IT technology
-  - 🌱 I’m currently learning nest.js and react.js and node.js
+  - 🌱 I’m currently learning Angular and Spring
   - 📫 How to reach me? To my own email: kacper0276@op.pl
   - actually i'm studying IT on University of Warmia and Mazury in Olsztyn 
 
