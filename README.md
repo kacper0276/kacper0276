@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <div>
-  - 👋 Hi, I’m @kacper0276, I'm 22 yo
+  - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
   - 👀 I’m interested in football and IT technology
   - 🌱 I’m currently learning Angular and Spring
   - 📫 How to reach me? To my own email: kacper0276@op.pl
