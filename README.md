@@ -1,5 +1,4 @@
 <div>
-  <h1>Hey there</h1>
     - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
     - 👀 I’m interested in football and IT technology
     - 🌱 I’m currently learning Angular and Spring
