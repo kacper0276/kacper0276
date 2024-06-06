@@ -1,13 +1,11 @@
 <div>
   <h1>Hey there</h1>
-  <div>
     - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
     - 👀 I’m interested in football and IT technology
     - 🌱 I’m currently learning Angular and Spring
     - 📫 How to reach me? To my own email: kacper0276@op.pl
     - actually i'm studying IT on University of Warmia and Mazury in Olsztyn 
     - I'm constantly trying to be better, learning new things
-  </div>
 </div>
 
 <div align="center">
