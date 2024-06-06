@@ -31,6 +31,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
 
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacper0276&show_icons=true&locale=en&layout=compact" alt="kacper0276" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacper0276&show_icons=true&locale=en" alt="kacper0276" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacper0276&" alt="kacper0276" /></p>
+
 
 <div>
   - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
