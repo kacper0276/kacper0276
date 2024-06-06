@@ -32,9 +32,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacper0276&show_icons=true&locale=en&layout=compact" alt="kacper0276" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacper0276&show_icons=true&locale=en" alt="kacper0276" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacper0276&" alt="kacper0276" /></p>
 
 
