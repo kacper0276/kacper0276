@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+
 - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
 - 👀 I’m interested in football and IT technology
 - 🌱 I’m currently learning Angular and Spring
@@ -5,12 +12,6 @@
 - actually i'm studying IT on University of Warmia and Mazury in Olsztyn 
 - I'm constantly trying to be better, learning new things
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
