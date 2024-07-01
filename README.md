@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👀 I’m interested in football and IT technology
 - 🌱 I’m currently learning Angular and Spring
 - 📫 How to reach me? To my own email: kacper0276@op.pl
-- actually i'm studying IT on University of Warmia and Mazury in Olsztyn 
+- actually i'm studying IT on University of Warmia and Mazury in Olsztyn (3rd year)
 - I'm constantly trying to be better, learning new things
 
 
