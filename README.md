@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m Kacper Renkel, I'm 22 yo
 - 👀 I’m interested in football and IT technology
-- 🌱 I’m currently learning Angular and Spring
+- 🌱 I’m currently learning Vue and Spring
 - 📫 How to reach me? To my own email: kacper0276@op.pl
 - actually i'm studying IT on University of Warmia and Mazury in Olsztyn (3rd year)
 - I'm constantly trying to be better, learning new things
