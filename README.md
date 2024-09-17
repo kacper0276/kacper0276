@@ -42,8 +42,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #### **DevOps & Tools:**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></code>&nbsp;
 </div>
 
 ### :bar_chart: My GitHub Stats :
