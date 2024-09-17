@@ -47,6 +47,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></code>&nbsp;
 </div>
 
+### :desktop_computer: Operating Systems :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+</div>
+
 ### :bar_chart: My GitHub Stats :
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacper0276&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
