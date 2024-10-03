@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m Kacper Renkel, I'm 22 years old.
 - 👀 I’m interested in football and IT technology.
-- 🌱 I’m currently learning Vue and .NET.
+- 🌱 I’m currently learning Vue and PHP.
 - 📫 How to reach me? Email: kacper0276@op.pl.
 - 🎓 Currently studying IT at the University of Warmia and Mazury in Olsztyn (3rd year).
 - 🌍 I'm constantly trying to be better, learning new things!
