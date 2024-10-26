@@ -62,7 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :bar_chart: My GitHub Stats :
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacper0276&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kacper0276&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kacper0276" alt="GitHub Streak" />
 </div>
