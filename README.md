@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :handshake: Connect with Me :
 <div id="badges"> 
-  <a href="https://www.linkedin.com/in/kacper-renkel-7612b2273/">
+  <a href="in/kacper-renkel-979490372">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
